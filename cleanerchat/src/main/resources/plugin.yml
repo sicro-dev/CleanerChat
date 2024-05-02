@@ -1,0 +1,6 @@
+name: cleanerchat
+version: '${project.version}'
+main: br.com.sicro.cleanerchat.Main
+commands:
+  cc:
+    description: "Plugin Clear Chat."
